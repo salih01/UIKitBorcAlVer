@@ -1,4 +1,4 @@
-# UIKitBorcalver
+# UIKitBorcalver (MVC)
  
 ![Ekran Resmi 2022-10-06 19 53 47](https://user-images.githubusercontent.com/44572600/194612051-845ef1d5-06fa-4dcf-96b5-b2003530553f.png)
 ![Ekran Resmi 2022-10-06 19 54 24](https://user-images.githubusercontent.com/44572600/194612058-2000d162-5e84-4acb-899e-963b51daa0d4.png)
